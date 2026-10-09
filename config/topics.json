@@ -1,0 +1,21 @@
+{
+  "topics": [
+    "ai",
+    "cybersecurity",
+    "climate",
+    "energy",
+    "health",
+    "technology",
+    "market",
+    "science"
+  ],
+  "schedule_mode": "daily",
+  "sources": [
+    "https://feeds.reuters.com/reuters/technologyNews",
+    "https://feeds.reuters.com/reuters/worldNews",
+    "https://feeds.reuters.com/reuters/businessNews",
+    "https://feeds.reuters.com/reuters/scienceNews",
+    "https://feeds.apnews.com/rss/apf-topnews.xml",
+    "https://feeds.bbci.co.uk/news/rss.xml"
+  ]
+}
