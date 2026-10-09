@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+news/latest.md
+news/summary.txt
+news/archive/*.md
+.DS_Store
+.idea/
+*.swp
+*.swo
+*~
